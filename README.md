@@ -1,4 +1,4 @@
-# Hi, I'm Akshaya 👋
+# Hi, I'm Akshaya 
 
 🎓 Master’s in Applied Data Science @ University of Chicago (Expected Dec 2026)  
 💼 Former Senior Associate – Transaction Banking @ DBS Bank  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am a data science graduate student with a strong foundation in statistics, machine learning, and data engineering, combined with 5+ years of experience in financial services and digital transformation.
 
@@ -23,50 +23,45 @@ I am particularly interested in roles at the intersection of Data Science, ML, a
 ## 🛠️ Technical Skills
 
 **Programming & Data**
-- Python (NumPy, Pandas, Scikit-learn)
+- Python (Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow)
 - R
-- SQL
+- SQL (joins, aggregations, window functions)
 
 **Data Engineering**
-- MySQL
-- MongoDB
-- Neo4j (Graph Databases)
+- BigQuery, MySQL
+- ETL/ELT pipelines, data modeling
+- MongoDB, Neo4j (graph databases)
 
 **Analytics & Visualization**
-- Statistical Modeling
-- Tableau
-- Power BI
+- Tableau, Power BI, HiPlot (Meta)
 - Matplotlib, Seaborn
+- Dashboarding, KPI tracking, cohort & funnel analysis
 
-**Core Concepts**
-- Machine Learning
-- Credit & Risk Analytics
-- Data Modeling
-- KPI Design & Performance Measurement
+**Machine Learning & AI**
+- Predictive modeling (regression, classification)
+- Clustering, recommendation systems
+- Time-series modeling
+- Model evaluation, feature engineering
 
----
-
-## 💼 Professional Experience Snapshot
-
-**DBS Bank – Senior Associate (2019–2024)**
-- Led 4 process optimization initiatives saving **3000+ man-hours/month**
-- Delivered **USD 0.5M annual cost savings**
-- Enabled **USD 2M incremental revenue** through digital payment solutions
-- Designed analytics-based lending and credit assessment platforms
-
-**Sports Mechanics India – Analyst Intern**
-- Performance analytics for an IPL team (Mumbai Indians)
-- Real-time Tableau dashboards for match and player analytics
-
-**Royal Bank of Scotland – Analyst**
-- Reduced loan disbursement turnaround time by **75%**
-- Trade finance analytics and risk compliance
+**Core Strengths**
+- Data-driven decision making
+- Credit & risk analytics
+- KPI design & performance measurement
+- Cross-functional problem solving
 
 ---
 
-## 📫 Let’s Connect
+## Full Time Professional Experience Snapshot
 
-- 📧 Email: akshayag00@gmail.com
+DBS Bank – Senior Associate (2019–2024)
+
+Royal Bank of Scotland – Analyst (2015-2017)
+
+---
+
+## Let’s Connect
+
+- 📧 Email: akshayag@uchicago.edu
 - 💼 LinkedIn: www.linkedin.com/in/akshaya-ganesh-2418a995
 - 📍 Location: Chicago, IL
 
