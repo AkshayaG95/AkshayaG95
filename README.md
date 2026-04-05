@@ -16,7 +16,7 @@ My background spans:
 - Driving process optimization and revenue growth in banking
 - Translating business problems into scalable data solutions
 
-I am particularly interested in roles at the intersection of Data Science, ML, and Financial/Business Analytics.
+I am particularly interested in roles at the intersection of Data Science, Product, and Financial/Business Analytics.
 
 ---
 
