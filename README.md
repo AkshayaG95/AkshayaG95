@@ -23,17 +23,17 @@ I am particularly interested in roles at the intersection of Data Science, Produ
 ## 🛠️ Technical Skills
 
 **Programming & Data**
-- Python (Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow)
+- Python (Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow, Keras)
 - R
-- SQL (joins, aggregations, window functions)
+- SQL
 
 **Data Engineering**
 - BigQuery, MySQL
 - ETL/ELT pipelines, data modeling
-- MongoDB, Neo4j (graph databases)
+- MongoDB, Neo4j
 
 **Analytics & Visualization**
-- Tableau, Power BI, HiPlot (Meta)
+- Tableau, Power BI, HiPlot, Streamlit
 - Matplotlib, Seaborn
 - Dashboarding, KPI tracking, cohort & funnel analysis
 
