@@ -1,7 +1,7 @@
 # Hi, I'm Akshaya 
 
-🎓 Master’s in Applied Data Science @ University of Chicago 
-💼 Former Senior Associate – Institutional Banking Group @ DBS Bank  
+🎓 Master’s in Applied Data Science @ University of Chicago.  
+💼 Former Senior Associate – Institutional Banking Group @ DBS Bank.   
 
 ---
 
