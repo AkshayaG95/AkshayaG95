@@ -60,9 +60,8 @@ Royal Bank of Scotland – Analyst (2015-2017)
 
 ## Let’s Connect
 
-- 📧 Email: akshayag@uchicago.edu
+- 📧 Email: akshayag00@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/akshaya-ganesh-2418a995
-- 📍 Location: Chicago, IL
 
 ---
 
