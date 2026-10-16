@@ -7,7 +7,7 @@
 
 ## About Me
 
-I am a data science graduate student with a strong foundation in statistics, machine learning, and data engineering, combined with 5+ years of experience in financial services and digital transformation.
+I am a data science graduate student with a strong foundation in statistics, machine learning, and data engineering, combined with 6+ years of experience in financial services and digital transformation.
 
 My background spans:
 - Building analytics-driven credit and lending platforms
